@@ -10,6 +10,5 @@ enum OracleCards
     Warrior,
     Treasure,
     Death,
-    Puppy,
-    Fate
+    Puppy
 }
